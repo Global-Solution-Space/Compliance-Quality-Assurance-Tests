@@ -55,8 +55,14 @@
 
 ---
 
-## Repositório Github
+## Repositório Github e Links Importantes
 
 [Repositório Github](https://github.com/Global-Solution-Space/Compliance-Quality-Assurance-Tests)
+
+[Descrição Projeto PDF](./descrição-do-projeto.pdf)
+
+[TOGAF PDF](./gs-togaf.pdf)
+
+[Arquivo TOGAF](./modelo-gs.archimate)
 
 [Link Vídeo](#)
